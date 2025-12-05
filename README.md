@@ -66,19 +66,7 @@ L’administrateur peut changer la langue depuis l’interface.
 
 ```
 /config
-    db.php                  # Connexion MySQLi
-/controllers
-    patients.php
-    doctors.php
-    departments.php
-/models
-    patient_model.php
-    doctor_model.php
-    department_model.php
-/views
-    dashboard.php
-    patients_list.php
-    patient_form.php
+    db.php
 /lang
     fr.php
     en.php
